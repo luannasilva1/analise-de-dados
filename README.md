@@ -16,7 +16,7 @@ Este repositório contém uma **análise exploratória de dados** sobre consumo 
 * Consumo por m³ 
 * Valor da conta 
 * Atraso no pagamento 
-* Status de corte do fornecimento ✂
+* Status de corte do fornecimento 
 
 Buscamos entender melhor os fatores que levam à inadimplência e como o consumo se correlaciona com diferentes perfis de clientes.
 
